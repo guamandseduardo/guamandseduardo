@@ -1,2 +1,2 @@
 # guamandseduardo
-sitio web personal https://guamandseduardo.netlify.com/
+sitio web personal https://guamandseduardo.rbind.io/
