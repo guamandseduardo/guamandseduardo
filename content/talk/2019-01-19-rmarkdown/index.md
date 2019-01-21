@@ -56,9 +56,9 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
-#  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+[image]
+  # Caption (optional)
+  caption = "Ver la imagen: [**rmarkdown**](https://bookdown.org/yihui/rmarkdown/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

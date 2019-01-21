@@ -304,23 +304,23 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "Inicio"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publicaciones"
   url = "#publications"
   weight = 2
   
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 3
-
-[[menu.main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
+  weight = 3
+  
+[[menu.main]]
+  name = "Charlas"
+  url = "#talks"
   weight = 4
 
 #[[menu.main]]
@@ -333,18 +333,27 @@ enableGitInfo = false
 #  url = "/tutorial/"
 #  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 5
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
    name = "CV"
    url = "#cv"
+   weight = 5
+   
+[[menu.main]]
+   name = "¿Por qué hacer estadística?"
+   url = "#why_do_statistics"
    weight = 6
+   
+[[menu.main]]
+  name = "Asesoría Estadística"
+  url = "#teaching"
+  weight = 7
 
+[[menu.main]]
+  name = "Contacto"
+  url = "#contact"
+  weight = 8
 
 # Search.
 [params.search]
