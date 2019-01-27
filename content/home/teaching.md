@@ -19,4 +19,4 @@ list_format = 1
 
 ### Servicio de Asesoría Estadística Profesional:
 
-Ofrezco el servicio de asesoría estadística, un asesoramiento profesional que te ayude a lograr el cumplimiento de tus objetivos y metas. [(más información)](/asesoria)
+Ofrezco el servicio de asesoría estadística, un asesoramiento profesional que te ayude a lograr el cumplimiento de tus objetivos y metas. [(más información)](asesoria-estadistica/asesoria)
