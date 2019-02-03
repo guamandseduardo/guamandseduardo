@@ -69,4 +69,4 @@ math = true
 Haga clic en el botón **Diapositivas** (arriba) para continuar con la lectura.
 {{% /alert %}}
 
-Descarga los datos [__titanic3__](/files/titanic3.csv) para poder realizar el primer gráfico (Gráfico de pastel).
+Descarga los datos [__titanic3__](/files/titanic3.csv) para poder realizar el primer gráfico (Gráfico de pastel) y el vigésimo gráfico (Gráfico de anillos).
