@@ -277,15 +277,20 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/guamandseduardo/"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/guamandseduardo/"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fab"
+#    link = "https://github.com/guamandseduardo/"
     
   [[params.social]]
     icon = "facebook"
     icon_pack = "fab"
-    link = "https://www.facebook.com/fedatascience/"
+    link = "https://www.facebook.com/faestadistica/"
+    
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/guamandseduardo/"
 
 
   # Link to a PDF of your resume/CV from the About widget.

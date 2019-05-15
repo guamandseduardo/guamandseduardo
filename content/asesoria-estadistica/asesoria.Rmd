@@ -1,5 +1,5 @@
 ---
-title: Servicio de Asesoría Estadística
+title: Asesoría Estadística
 author: Eduardo Guamán
 date: '2019-01-20'
 tags:
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
   - Intervalos de confianza
   - Prueba de hipótesis para una, dos y más de dos muestras
 
-+ **Análisis Multivariante:** 
++ **Análisis Multivariante Descriptivo e Inferencial:** 
 Puesto que hay varias variables medidas para cada individuo ú objeto estudiado, es necesario acudir a las técnicas multivariantes:
   - análisis de regresión lineal múltiple,
   - análisis de clúster o agrupamiento,
@@ -74,6 +74,13 @@ Los métodos no paramétricos son útiles cuando no se cumple el supuesto de nor
   - Tablas de contingencia
   - Prueba de Wald-Wolfowitz
   - Prueba de los rangos con signo de Wilcoxon
+
++ **Softwares para Análisis de Datos:** 
+  - R (Intermedio)
+  - Python (Básico)
+  - SPSS
+  - Minitab
+  - Excel
 
 ## Esto y mucho más solo contáctame, me encuentro en la Av. General Enríquez y Colombia (Sangolquí-Ec)
 

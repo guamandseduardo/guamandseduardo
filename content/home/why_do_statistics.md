@@ -15,6 +15,6 @@ weight = 7
 
 +++
 
-Con el aumento de noticias falsas, la toma de decisiones equivocadas que generalmente son bajo incertidumbre y la gran cantidad de información que se genera día a día, la ESTADÍSTICA es cada vez más importante como la LECTURA para ser mejores tomando decisiones y obtener información más confiable.
+Con el aumento de noticias falsas, la toma de decisiones equivocadas que generalmente son bajo incertidumbre y la gran cantidad de información que se genera día a día, la ESTADÍSTICA es cada vez más importante como la habilidad de LEER y ESCRIBIR, nos permite obtener información confiable para ser mejores con la toma de decisiones.
 
 “Sin datos, solo eres otra persona más dando su opinión” (W. Edwards Deming)
