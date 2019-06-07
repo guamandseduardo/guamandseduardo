@@ -76,11 +76,18 @@ Los métodos no paramétricos son útiles cuando no se cumple el supuesto de nor
   - Prueba de los rangos con signo de Wilcoxon
 
 + **Softwares para Análisis de Datos:** 
-  - R (Intermedio)
+  - R
   - Python (Básico)
   - SPSS
   - Minitab
   - Excel
+  - Power BI
+  - Julia (Básico)
+
++ **R para:** 
+  - Crear páginas web simple o con cualquier [Hugo Themes](https://themes.gohugo.io/) y publicar en [github.com](https://github.com/) o [netlify.com](https://www.netlify.com/) (si quieres ir más allá y conseguir un subdomain rbind.io también te puedo asesorar).
+  - Presentaciones HTML ([ejemplo](https://guamandseduardo.rbind.io/slides/plots-ggplot2.html#1)) y PowerPoint
+  - Escribir documentos .docx y .pdf
 
 ## Esto y mucho más solo contáctame, me encuentro en la Av. General Enríquez y Colombia (Sangolquí-Ec)
 
